@@ -1,0 +1,13 @@
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\bin\Debug\ProcessInfo.exe.config
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\bin\Debug\ProcessInfo.exe
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\bin\Debug\ProcessInfo.pdb
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo.csprojResolveAssemblyReference.cache
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\MainWindow.baml
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\MainWindow.g.cs
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\App.g.cs
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo_MarkupCompile.cache
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo.g.resources
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInformation.Properties.Resources.resources
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo.csproj.GenerateResource.Cache
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo.exe
+c:\users\frmausse\documents\visual studio 2013\Projects\ProcessInfo\ProcessInfo\obj\Debug\ProcessInfo.pdb
